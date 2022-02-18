@@ -1,2 +1,2 @@
 console.log("Second Change");
-console.log("new line added by another developer");
+console.log("new line added by another developer second");
